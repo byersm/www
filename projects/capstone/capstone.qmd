@@ -1,0 +1,20 @@
+---
+title: "Capstone"
+description: "Capstone Project on Batted Passes in the NFL for SURE 2024 at CMU"
+date: July 2024
+about: 
+  template: solana
+  image: cover.JPG
+  links: 
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/lucca-ferraz/Modeling-Batted-Passes
+    - icon: luggage-fill
+      text: Slides
+    - icon: plug
+      text: Poster
+    - icon: minecart-loaded
+      text: Report
+---
+
+insert description for now

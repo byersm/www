@@ -1,0 +1,25 @@
+---
+title: "EDA"
+description: "EDA Project on Women's Tennis for SURE 2024 at CMU"
+date: July 2024
+about: 
+  template: solana
+  image: 343.png
+  links: 
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/lucca-ferraz/SURE-EDA-Analysis
+    - icon: luggage-fill
+      text: Slides
+---
+
+insert desxcroptioj later
+
+**bold**
+
+*italic*
+
+```{r}
+hist(rnorm(100))
+
+```

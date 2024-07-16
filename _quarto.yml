@@ -1,0 +1,42 @@
+project:
+  type: website
+  resources: assets
+  output-dir: docs
+
+website:
+  title: "Maggie Byers"
+  navbar:
+    background: "#008080"
+    foreground: "#ffffff"
+    left:
+      - href: index.qmd
+        text: Home
+      - projects.qmd
+    right: 
+      - icon: bandaid
+        href: assets/Resume.pdf
+        target: _blank
+      - icon: airplane-engines
+        href: https://en.wikipedia.org/wiki/Aircraft_engine
+        target: _blank
+      - icon: linkedin
+        href: https://www.linkedin.com/in/maggie-byers/
+        target: _blank
+      - icon: github
+        href: https://github.com/byersm
+        target: _blank
+      - icon: controller
+        href: suikagame.com
+
+
+format:
+  html:
+    theme: 
+      dark: solar
+      light: minty
+       # - custom.scss
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,27 @@
+---
+title: "Maggie Byers"
+about: 
+  template: jolla
+  image: assets/SeniorPicture.jpeg
+  links: 
+    - icon: incognito
+      text: Intel
+      href: mailto:byersm@dickinson.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/byersm
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/maggie-byers/
+      target: _blank
+    - icon: lamp-fill
+      text: password?
+    - icon: piggy-bank-fill
+      text: pay up... or else
+---
+
+*some* textity text
+
+Welcome to my website! I am a rising senior at Drinkinson College, majoring in Mathematics and Data Analytics. I am interested in games analytics, specifically spikeball and ping pong.
+
